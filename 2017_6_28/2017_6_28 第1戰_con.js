@@ -246,7 +246,7 @@ var Chart3 = new CanvasJS.Chart('chartContainer3',
 			            zoomEnabled: false,
                                     animationEnabled: true,
 			            title:{
-				            text: '殲滅PT'
+				            text: '殲滅、CBC、強襲的PT統計'
 			            },
 			            axisY2:{
 				            valueFormatString:'0 pt',
