@@ -1,0 +1,55 @@
+.times{
+ text-align:center;
+ margin-top:-10px;
+ margin-left:35px;
+ width:15px;
+ height:15px;
+ font-size: 10px;
+ color: rgb(0, 0, 0); 
+ border-radius: 10px 10px 10px 10px;
+ border: 2px solid rgb(255, 255, 255); 
+ background: linear-gradient(rgb(255, 236, 100) 5%, rgb(255, 171, 35) 100%) rgb(255, 236, 100);
+}
+
+.button{
+  text-align:center;
+  padding-top:4px;
+  margin-top:7px;
+  margin-left:5px;
+  box-shadow: 0px 1px 0px 0px rgb(207, 134, 108) inset; 
+  border-radius: 3px; 
+  border: 1px solid rgb(0, 0, 0); 
+  display: inline-block; 
+  color: rgb(0, 0, 0); 
+  font-family: Arial; 
+  font-size: 12px;
+  width:45px;
+  height:42px;
+  text-decoration: none; 
+  text-shadow: 0px 1px 0px rgb(133, 70, 41); 
+}
+
+.red{
+  background: rgb(206, 27, 27) linear-gradient(to bottom, rgb(206, 27, 27) 5%, rgb(196, 27, 21) 100%) repeat scroll 0% 0%;  
+    color: rgb(255, 255, 255); 
+}
+
+.blue{
+  background: rgb(10, 157, 245) linear-gradient(to bottom, rgb(10, 157, 245) 5%, rgb(0, 147, 235) 100%) repeat scroll 0% 0%;  
+   color: rgb(255, 255, 255); 
+}
+
+.yellow{
+  background: rgb(240, 197, 23) linear-gradient(to bottom, rgb(240, 197, 23) 5%, rgb(230, 187, 23) 100%) repeat scroll 0% 0%;  
+}
+
+.purple{
+  background: rgb(173, 0, 198) linear-gradient(to bottom, rgb(173, 0, 198) 5%, rgb(163, 0, 188) 100%) repeat scroll 0% 0%;  
+  color: rgb(255, 255, 255); 
+}
+
+table, th, td {
+   vertical-align:top;
+   border: 1px solid black;
+}
+ 
