@@ -9,7 +9,7 @@ var Chart1 = new CanvasJS.Chart('chartContainer1',
 			            axisY2:{
 				            valueFormatString:'0 pt',
 				
-				            maximum: 1000000,
+				            maximum: 700000,
 				            interval: 100000,
 				            interlacedColor: '#F5F5F5',
 				            gridColor: '#D7D7D7',      
@@ -129,7 +129,7 @@ var Chart2 = new CanvasJS.Chart('chartContainer2',
 			            axisY2:{
 				            valueFormatString:'0 pt',
 				
-				            maximum: 15000000,
+				            maximum: 7000000,
 				            interval: 1000000,
 				            interlacedColor: '#F5F5F5',
 				            gridColor: '#D7D7D7',      
@@ -249,7 +249,7 @@ var Chart3 = new CanvasJS.Chart('chartContainer3',
 			            axisY2:{
 				            valueFormatString:'0 pt',
 				
-				            maximum: 500000,
+				            maximum: 350000,
 				            interval: 50000,
 				            interlacedColor: '#F5F5F5',
 				            gridColor: '#D7D7D7',      
